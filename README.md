@@ -36,7 +36,6 @@ git clone https://github.com/Kartik200428/Movie_Recommendation_System.git
 <p align="center">
   <b>Home Screen</b> &nbsp;&nbsp;&nbsp;&nbsp;
   <b>Prediction Result</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Analytics View</b>
 </p>
 
 ## 📁 Project Structure
