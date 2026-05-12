@@ -27,18 +27,27 @@ git clone https://github.com/Kartik200428/Movie_Recommendation_System.git
 ```
 
 ## 📸 Screenshots
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cb91f88a-213f-4a1d-a7e1-1843dd94f862" width="250"/>
+      <br/>
+      <sub>Home Screen</sub>
+    </td>
 
-> **Tip:** You can auto-generate a beautiful project mockup image using the **Screenshot** button above!
-![Screenshot 2024-11-20 114413](https://github.com/user-attachments/assets/cb91f88a-213f-4a1d-a7e1-1843dd94f862)
-<p align="center">
-  <img src="![Screenshot 2024-11-20 114413](https://github.com/user-attachments/assets/cb91f88a-213f-4a1d-a7e1-1843dd94f862)
-![Screenshot 2024-11-20 114551](https://github.com/user-attachments/assets/0b6d3253-92fb-45a9-b318-cf7db1bd614f)
-![Screenshot 2024-11-20 114721](https://github.com/user-attachments/assets/f19be197-7b35-4821-ba1c-c8923e281cbd)" alt="Main Application View" width="80%"/>
-</p>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/0b6d3253-92fb-45a9-b318-cf7db1bd614f" width="250"/>
+      <br/>
+      <sub>Prediction Result</sub>
+    </td>
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Feature+Showcase" alt="Feature Showcase" width="80%"/>
-</p>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f19be197-7b35-4821-ba1c-c8923e281cbd" width="250"/>
+      <br/>
+      <sub>Analytics View</sub>
+    </td>
+  </tr>
+</table>
 
 ## 📁 Project Structure
 
